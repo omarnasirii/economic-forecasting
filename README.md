@@ -16,6 +16,9 @@ Built with **Python, Streamlit, SQL, and FRED API**.
 
 ## 📂 Project Structure
 
+<img width="274" height="226" alt="Screenshot 2025-08-28 183604" src="https://github.com/user-attachments/assets/b151f933-27db-4560-874a-14f62f8a9f39" />
+
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
@@ -73,3 +76,4 @@ Add seasonality analysis.
 Compare multiple forecasting models side by side.
 
 Deploy to Streamlit Cloud for easy sharing.
+
