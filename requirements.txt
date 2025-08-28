@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+sqlalchemy
+fredapi
+statsmodels
+prophet
+python-dotenv
