@@ -19,9 +19,6 @@ Built with **Python, Streamlit, SQL, and FRED API**.
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
-git clone https://github.com/yourusername/economic-forecasting.git
-
-cd economic-forecasting
 
 ### 2. Create Virtual Environment
 python -m venv venv
@@ -73,3 +70,4 @@ Add seasonality analysis.
 Compare multiple forecasting models side by side.
 
 Deploy to Streamlit Cloud for easy sharing.
+
